@@ -2,7 +2,7 @@
 
 🎓 **AI Researcher on IARA++ Lab**
 
-🛠️ **Tools:**
+🛠️ **Tools**
 
 - **Languages:** Python, SQL, Excel, Power BI
 
