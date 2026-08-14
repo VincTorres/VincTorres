@@ -6,6 +6,7 @@
 🐍 **Libraries:** Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, PyTorch
 
 📫 **Email:** [viniciuscarvalhotorres@outlook.com](mailto:viniciuscarvalhotorres@outlook.com)
+
 **LinkedIn:** [Vinicius Carvalho Torres](https://www.linkedin.com/in/vinicius-carvalho-torres/)
 
 
