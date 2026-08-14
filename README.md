@@ -2,11 +2,13 @@
 
 🎓 **AI Researcher on IARA++ Lab**
 
-🛠️ **Tools:** Python, SQL, Excel, Power BI
+🛠️ **Tools:**
 
-🐍 **Libraries:** Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, PyTorch
+- **Languages:** Python, SQL, Excel, Power BI
 
-📫 **Email:** [viniciuscarvalhotorres@outlook.com](mailto:viniciuscarvalhotorres@outlook.com)
+- **Libraries:** Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, PyTorch
+
+ **Email:** [viniciuscarvalhotorres@outlook.com](mailto:viniciuscarvalhotorres@outlook.com)
 
 **LinkedIn:** [Vinicius Carvalho Torres](https://www.linkedin.com/in/vinicius-carvalho-torres/)
 
