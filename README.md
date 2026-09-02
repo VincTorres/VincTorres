@@ -10,6 +10,6 @@
 
  **Email:** [viniciuscarvalhotorres@outlook.com](mailto:viniciuscarvalhotorres@outlook.com)
 
-**LinkedIn:** [Vinicius Carvalho Torres](https://www.linkedin.com/in/vinicius-carvalho-torres/)
+**LinkedIn:** [Vinicius Carvalho Torres](www.linkedin.com/in/vinícius-carvalho-torres)
 
 
